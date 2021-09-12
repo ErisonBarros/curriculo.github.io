@@ -129,12 +129,15 @@ ESTUDY OF THE APPLICATION OF ISO 19.152 FOR THE IMPROVEMENT OF THE RURAL TERRITO
 
 
 # Public Shelters:
+
 http://www.lsie.unb.br/rbc/index.php/rbc/article/view/563
 
 # Technical Responsible for the Certification of the Georeferencing of Rural Properties.
+
 https://sigef.incra.gov.br/consultar/parcelas/?termo=&pesquisa_avancada=True&cpf_cnpj=&proprietario=&cns=&matricula=&codigo=&protocolo=&credenciado=DWG&vertice=&sncr=
 
 # Editor
+
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 ![](https://img.shields.io/github/forks/pandao/editor.md.svg)
 ![](https://img.shields.io/github/tag/pandao/editor.md.svg)
