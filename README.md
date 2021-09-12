@@ -1,17 +1,14 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+![](https://simgbb.com/avatar/NgkcKW28xFdV.jpg)
 
-# Hi, I'm Erison Rosa de Oliveira Barros! :D
+# Professor Erison Rosa de Oliveira Barros!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/erobeng)](https://github.com/erobeng)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erisonbarros-7128621b8/)](https://www.linkedin.com/in/erisonbarros-7128621b8/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Erobeng)](https://twitter.com/fagnerpsantos)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCf-oBG1kqnpAFrzaiW93kmg)](https://www.youtube.com/channel/UCf-oBG1kqnpAFrzaiW93kmg)
 [![Youtube Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://https://www.facebook.com/erison.barros)](https://www.facebook.com/erison.barros)
-
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-4879-6880" href="https://orcid.org/0000-0003-4879-6880" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-4879-6880</a></div>
-
-
 
 # About me
 I'm a {Master in Geodetic Sciences and Geoinformation Technologies Cartographer Engineer, Building Technician} developer and Geospatial data science Research  and Topograph and Adjustment of Observations.
@@ -48,10 +45,6 @@ I am a master in Geodetic Sciences and Geoinformation Technologies from the Fede
 [![Windows cross build](https://github.com/qgis/QGIS/workflows/MingW64%20Windows%2064bit%20Build/badge.svg)](https://github.com/qgis/QGIS/actions/workflows/mingw64.yml?query=branch%3Amaster+event%3Apush)
 
 QGIS is a full-featured, user-friendly, free-and-open-source (FOSS) geographical information system (GIS) that runs on Unix platforms, Windows, and MacOS.
-
-## Photo
-![](https://github.com/ErisonBarros/labat.github.io/blob/master/.gitbook/assets/foto_perfil.jpg)
-
 
 # GitHub Readme Stats
 
@@ -94,18 +87,17 @@ QGIS is a full-featured, user-friendly, free-and-open-source (FOSS) geographical
 # Currículo Lattes:
 http://lattes.cnpq.br/8237482217038157
 
-# Responsável pelo Laboratório
+# Projects in Development
+> Laboratory Manager
 https://sites.google.com/view/labat/01
 
-# Automação de Processos Administratvos da UFPE.
-
+> Process Automation UFPE.
 https://linktr.ee/ProfErisonBarros
 
-# Homepage
-
+> Homepage under development
 https://erobeng.wixsite.com/ufpe
 
-# Trabalhos Técnicos
+# Technical Papers
 - Georeferencing for Rural Property Certification of Settlement Projects 2014
 - Participation in the Environmental Control Report - RCA concerning the construction of a mooring and rectification of the right bank of the Potengi River Natal/RN 2014
 - General Implementation Plan for the Jiquiá Park - Zeppelin Tower - in the district of Jiquiá, municipality of Recife-PE. 2014
@@ -115,24 +107,24 @@ https://erobeng.wixsite.com/ufpe
 - Elaboration of the Forest Inventory, Rational Deforestation Plan and Forest Replacement project of a 40 hectares area in the implementation area of the Pecém/CE Waterway Terminal. 2012
 - Technical Report of Indentification and Delimitation of the Territory of the Quilombo Remnant Community of Tímbó 2011
 
-# Formação Acadêmica
-* Doutorado em andamento em Engenharia Civil  - 2017 - Atual Universidade Federal de Pernambuco
-  Orientador: Maurício Oliveira de Andrade
-* Mestrado em Ciências Geodésicas e Tecnologias da Geoinformação - 2009 - 2011
-* Especialização em Auditória, Avaliação e Perícia em Engenharia - 2012 - 2014
-* Graduação em Engenharia Cartográfica - 2001 - 2007
-* Curso técnico/profissionalizante - 1996 - 1999
+# Academic Background
+* Doctorate in progress in Civil Engineering - 2017 - Present Universidade Federal de Pernambuco
+  Advisor: Maurício Oliveira de Andrade
+* Master in Geodetic Sciences and Geoinformation Technologies - 2009 - 2011
+* Specialization in Auditing, Evaluation and Expertise in Engineering - 2012 - 2014
+* Graduation in Cartographic Engineering - 2001 - 2007
+* Technical/professionalizing course - 1996 - 1999
 
 # Projetos de pesquisa
-2016 - Atual
-ESTUDO DA APLICAÇÃO DA ISO 19.152 PARA O APERFEIÇOAMENTO DO CADASTRO TERRITORIAL RURAL DE PERNAMBUCO, Descrição: Propor e desenvolver um modelo conceitual baseado na ISO 19.152 para a implementação de Cadastros Territoriais Rural para o estado de Pernambuco.. , Situação: Em andamento; Natureza: Pesquisa. , Alunos envolvidos: Graduação: (1) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (0) . , Integrantes: Erison Rosa de Oliveira Barros - Coordenador.
+2016 - Present
+ESTUDY OF THE APPLICATION OF ISO 19.152 FOR THE IMPROVEMENT OF THE RURAL TERRITORIAL REGISTER OF PERNAMBUCO, Description: Propose and develop a conceptual model based on ISO 19.152 for the implementation of Rural Territorial Cadastros for the state of Pernambuco... Status: In progress; Nature: Research Students Involved: Graduation: (1) / Specialization: (0) / Academic Master: (0) / Professional Master: (0) / PhD: (0) . , Integrants: Erison Rosa de Oliveira Barros - Coordinator.
 
-# Disciplinas que Ministra Aulas
-1. Projeto de Levantamento Topográfico
-2. Legislação Territorial
-3. Parcelamento Territorial
-4. Topografia 01
-5. Topografia 02
+# Disciplines Ministering Classrooms
+1. Topographic Surveying Project
+2. Land Legislation
+3. Land parcelling
+4. Topography 01
+5. Topography 02
 
 
 
@@ -163,3 +155,10 @@ https://sigef.incra.gov.br/consultar/parcelas/?termo=&pesquisa_avancada=True&cpf
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+
